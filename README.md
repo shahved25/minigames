@@ -1,1 +1,2 @@
-# minigames
+# Python Minigames
+# Games I wrote as an introduction to Python...
